@@ -7,4 +7,4 @@
 | 4/13/2016 | [SEEDB: Efficient Data-Driven Visualization Recommendations to Support Visual Analytics](http://www.vldb.org/pvldb/vol8/p2182-vartak.pdf) | VLDB 2016 | Kexin |
 | 4/21/2016 | [Trill: A High-Performance Incremental Query Processor for Diverse Analytics](http://www.vldb.org/pvldb/vol8/p401-chandramouli.pdf) | VLDB 2015 | Todd |
 | 4/27/2016 | [Knowing When You’re Wrong: Building Fast and Reliable Approximate Query Processing Systems](https://www.cs.berkeley.edu/~sameerag/mod282-agarwal.pdf) | SIGMOD 2014 | Edward |
-
+| 5/04/2016 | [Automating Model Search for Large Scale Machine Learning](https://amplab.cs.berkeley.edu/wp-content/uploads/2015/07/163-sparks.pdf) | SoCC 2015 | Sahaana | 
