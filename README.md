@@ -11,3 +11,4 @@
 | 5/11/2016 | [The Scalable Commutativity Rule: Designing Scalable Software for Multicore Processors](https://people.csail.mit.edu/nickolai/papers/clements-sc.pdf) | SOSP 2013 | Vivek |
 | 5/18/2016 | [AutoPlait: Automatic Mining of Co-evolving Time Sequences](http://www.cs.cmu.edu/~christos/PUBLICATIONS/14-sigmod-autoplait.pdf) | SIGMOD 2014 | Vayu |
 | 5/25/2016 | [MacroBase: Analytic Monitoring for the Internet of Things](arxiv.org/pdf/1603.00567.pdf) | arXiv 2016 | Peter |
+| 6/2/2016 | [Designing for Situation Awareness: An Approach to User-Centered Design, Chapters 8 & 9](https://www.crcpress.com/Designing-for-Situation-Awareness-An-Approach-to-User-Centered-Design/Endsley/p/book/9781420063554) | CRC Press 2011 | Kexin |
