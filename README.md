@@ -13,3 +13,4 @@
 | 5/25/2016 | [MacroBase: Analytic Monitoring for the Internet of Things](arxiv.org/pdf/1603.00567.pdf) | arXiv 2016 | Peter |
 | 6/2/2016 | [Designing for Situation Awareness: An Approach to User-Centered Design, Chapters 8 & 9](https://www.crcpress.com/Designing-for-Situation-Awareness-An-Approach-to-User-Centered-Design/Endsley/p/book/9781420063554) | CRC Press 2011 | Kexin |
 | 6/8/2016 | [Searching and Mining Trillions of Time Series Subsequences under Dynamic Time Warping](http://www.cs.ucr.edu/~eamonn/SIGKDD_trillion.pdf) | KDD 2012 | Edward |
+| 6/15/2016 | [CarTel: A Distributed Mobile Sensor Computing System ](http://inat.lcs.mit.edu/papers/cartel-sensys06.pdf) | SenSys 2006 | Sahaana |
