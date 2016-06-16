@@ -14,3 +14,4 @@
 | 6/2/2016 | [Designing for Situation Awareness: An Approach to User-Centered Design, Chapters 8 & 9](https://www.crcpress.com/Designing-for-Situation-Awareness-An-Approach-to-User-Centered-Design/Endsley/p/book/9781420063554) | CRC Press 2011 | Kexin |
 | 6/8/2016 | [Searching and Mining Trillions of Time Series Subsequences under Dynamic Time Warping](http://www.cs.ucr.edu/~eamonn/SIGKDD_trillion.pdf) | KDD 2012 | Edward |
 | 6/15/2016 | [CarTel: A Distributed Mobile Sensor Computing System ](http://inat.lcs.mit.edu/papers/cartel-sensys06.pdf) | SenSys 2006 | Sahaana |
+| 6/22/2016 | [DBSherlock: A Performance Diagnostic Tool for Transactional Databases](https://web.eecs.umich.edu/~mozafari/php/data/uploads/sigmod_2016.pdf) | SIGMOD 2016 | Firas |
