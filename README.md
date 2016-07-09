@@ -16,3 +16,4 @@
 | 6/15/2016 | [CarTel: A Distributed Mobile Sensor Computing System ](http://inat.lcs.mit.edu/papers/cartel-sensys06.pdf) | SenSys 2006 | Sahaana |
 | 6/22/2016 | [DBSherlock: A Performance Diagnostic Tool for Transactional Databases](https://web.eecs.umich.edu/~mozafari/php/data/uploads/sigmod_2016.pdf) | SIGMOD 2016 | Firas |
 | 7/1/2016 | [Arx: A Strongly Encrypted Database System](http://eprint.iacr.org/2016/591.pdf) | IACR 2016 | Todd |
+| 7/6/2016 | [Sharing-Aware Outlier Analytics over High-Volume Data Streams](http://dl.acm.org/citation.cfm?id=2882920) | SIGMOD 2016 | Kexin |
