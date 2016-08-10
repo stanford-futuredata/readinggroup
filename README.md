@@ -17,3 +17,6 @@
 | 6/22/2016 | [DBSherlock: A Performance Diagnostic Tool for Transactional Databases](https://web.eecs.umich.edu/~mozafari/php/data/uploads/sigmod_2016.pdf) | SIGMOD 2016 | Firas |
 | 7/1/2016 | [Arx: A Strongly Encrypted Database System](http://eprint.iacr.org/2016/591.pdf) | IACR 2016 | Todd |
 | 7/6/2016 | [Sharing-Aware Outlier Analytics over High-Volume Data Streams](http://dl.acm.org/citation.cfm?id=2882920) | SIGMOD 2016 | Kexin |
+| 7/27/2016 | [SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size](https://arxiv.org/pdf/1602.07360v3.pdf) | arXiv 2016 | Firas |
+| 8/3/2016 | [SLiMFast: Guaranteed Results for Data Fusion and Source Reliability](http://arxiv.org/abs/1512.06474) | arXiv 2016 | Firas |
+| 8/10/2016 | [Gorilla: A Fast, Scalable, In-Memory Time Series Database](http://www.vldb.org/pvldb/vol8/p1816-teller.pdf) | VLDB 2015 | Kexin |
