@@ -21,4 +21,4 @@
 | 7/20/2016 7/27/2016 | [SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size](https://arxiv.org/pdf/1602.07360v3.pdf) | arXiv 2016 | Firas |
 | 8/3/2016 | [SLiMFast: Guaranteed Results for Data Fusion and Source Reliability](http://arxiv.org/abs/1512.06474) | arXiv 2016 | Firas |
 | 8/10/2016 | [Gorilla: A Fast, Scalable, In-Memory Time Series Database](http://www.vldb.org/pvldb/vol8/p1816-teller.pdf) | VLDB 2015 | Kexin |
-| 8/24/2016 | [Automating the Choice of Consistency Levels in Replicated Systems](https://www.usenix.org/system/files/conference/atc14/atc14-paper-li_cheng.pdf) | USENIX 2014 | Sahaana |
+| 8/24/2016 | [Automating the Choice of Consistency Levels in Replicated Systems](https://www.usenix.org/system/files/conference/atc14/atc14-paper-li_cheng.pdf) | USENIX ATC 2014 | Sahaana |
