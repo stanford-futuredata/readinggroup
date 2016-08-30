@@ -23,3 +23,4 @@
 | 8/10/2016 | [Gorilla: A Fast, Scalable, In-Memory Time Series Database](http://www.vldb.org/pvldb/vol8/p1816-teller.pdf) | VLDB 2015 | Kexin |
 | 8/17/2016 | [Time, Clocks, and the Ordering of Events in a Distributed System ](http://research.microsoft.com/en-us/um/people/lamport/pubs/time-clocks.pdf) | Communications of the ACM 1978 | Peter |
 | 8/24/2016 | [Automating the Choice of Consistency Levels in Replicated Systems](https://www.usenix.org/system/files/conference/atc14/atc14-paper-li_cheng.pdf) | USENIX ATC 2014 | Sahaana |
+| 8/31/2016 | [The Homeostasis Protocol: Avoiding Transaction Coordination Through Program Analysis](http://www.cs.cornell.edu/~blding/pub/homeostasis_sigmod_2015.pdf) | SIGMOD 2015 | Todd |
