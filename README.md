@@ -29,3 +29,5 @@
 | 9/21/2016 | [Hails: Protecting Data Privacy in Untrusted Web Applications](https://www.usenix.org/system/files/conference/osdi12/osdi12-final-35.pdf) | OSDI 2012 | Deepak |
 | 9/28/2016 | [Fast and Accurate Performance Analysis of LTE Radio Access Networks](https://arxiv.org/abs/1605.04652) | arXiv 2016 | Edward |
 | 10/5/2016 | [Why Should I Trust You?” Explaining the Predictions of Any Classifier](http://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf) | KDD 2016 | Kexin |
+| 10/26/2016 | [Googles Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/pdf/1609.08144v2.pdf) | arXiv 2016 | Tony |
+
