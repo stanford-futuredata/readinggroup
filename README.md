@@ -31,4 +31,5 @@
 | 10/5/2016 | [Why Should I Trust You?” Explaining the Predictions of Any Classifier](http://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf) | KDD 2016 | Kexin |
 | 10/19/2016 | [Biscuit: a framework for near-data processing of big data workloads](http://dl.acm.org/citation.cfm?id=3001154) | ISCA 2016 | James |
 | 10/26/2016 | [Googles Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/pdf/1609.08144v2.pdf) | arXiv 2016 | Tony |
+| 11/30/2016 | [Halide: A Language and Compiler for Optimizing Parallelism, Locality, and Recomputation in Image Processing Pipelines](http://people.csail.mit.edu/jrk/halide-pldi13.pdf) | PLDI 2013 | John |
 
