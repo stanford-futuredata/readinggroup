@@ -34,4 +34,6 @@
 | 11/30/2016 | [Halide: A Language and Compiler for Optimizing Parallelism, Locality, and Recomputation in Image Processing Pipelines](http://people.csail.mit.edu/jrk/halide-pldi13.pdf) | PLDI 2013 | John |
 | 12/07/2016 | [Slicer: Auto-Sharding for Datacenter Applications](https://www.usenix.org/system/files/conference/osdi16/osdi16-adya.pdf) | OSDI 2016 | Deepak |
 | 12/13/2016 | [Network Requirements for Resource Disaggregation](https://www.usenix.org/system/files/conference/osdi16/osdi16-gao.pdf) | OSDI 2016 | Shoumik |
+| 01/18/2017 | [DQBarge: Improving Data-Quality Tradeoffs in Large-Scale Internet Services](https://www.usenix.org/system/files/conference/osdi16/osdi16-chow.pdf) | OSDI 2016 | Kexin |
+| 01/27/2017 | [Ibex—An Intelligent Storage Engine with Support for Advanced SQL Off-loading](http://www.vldb.org/pvldb/vol7/p963-woods.pdf) | VLDB 2014 | Deepak |
 
