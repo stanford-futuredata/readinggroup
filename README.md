@@ -40,3 +40,4 @@
 | 02/10/2017 | [Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661v1.pdf) | NIPS 2014 | Cody |
 | 02/17/2017 | [Learning to learn by gradient descent by gradient descent](https://arxiv.org/pdf/1606.04474.pdf)  | NIPS 2016 | Firas |
 | 02/24/2017 | [VC3: Trustworthy Data Analytics in the Cloud using SGX](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/vc3-oakland2015.pdf)| Security & Privacy 2015 | Dima |
+| 03/03/2017 | [Approximated and User Steerable tSNE for Progressive Visual Analytics](http://ieeexplore.ieee.org/document/7473883/)| IEEE Visualization 2016 | Edward |
