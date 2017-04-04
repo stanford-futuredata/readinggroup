@@ -41,3 +41,7 @@
 | 02/17/2017 | [Learning to learn by gradient descent by gradient descent](https://arxiv.org/pdf/1606.04474.pdf)  | NIPS 2016 | Firas |
 | 02/24/2017 | [VC3: Trustworthy Data Analytics in the Cloud using SGX](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/vc3-oakland2015.pdf)| Security & Privacy 2015 | Dima |
 | 03/03/2017 | [Approximated and User Steerable tSNE for Progressive Visual Analytics](http://ieeexplore.ieee.org/document/7473883/)| IEEE Visualization 2016 | Edward |
+| 03/10/2017 | [Latte: A Language, Compiler, and Runtime for
+Elegant and Efficient Deep Neural Networks](http://www.thev.net/PaulLiu/download/p209-truong.pdf) | PLDI 2016 | Shoumik |
+| 03/17/2017 | [Brook for GPUs: Stream Computing on Graphics Hardware](http://cseweb.ucsd.edu/~ravir/274/15/papers/p777-buck.pdf) | SIGGRAPH 2004 | James |
+| 03/24/2017 | [Learning with Drift Detection](https://link.springer.com/chapter/10.1007/978-3-540-28645-5_29) | Brazilian Symposium on Artificial Intelligence 2004 | Jonathan |
