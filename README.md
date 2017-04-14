@@ -44,3 +44,5 @@
 | 03/10/2017 | [Latte: A Language, Compiler, and Runtime for Elegant and Efficient Deep Neural Networks](http://www.thev.net/PaulLiu/download/p209-truong.pdf) | PLDI 2016 | Shoumik |
 | 03/17/2017 | [Brook for GPUs: Stream Computing on Graphics Hardware](http://cseweb.ucsd.edu/~ravir/274/15/papers/p777-buck.pdf) | SIGGRAPH 2004 | James |
 | 03/24/2017 | [Learning with Drift Detection](https://link.springer.com/chapter/10.1007/978-3-540-28645-5_29) | Brazilian Symposium on Artificial Intelligence 2004 | Jonathan |
+| 04/07/2017 | [Understanding deep learning requires rethinking generalization](https://arxiv.org/pdf/1611.03530.pdf) | arXiv 2016 | Sahaana Suri |
+| 04/14/2017 | [In-Datacenter Performance Analysis of a Tensor Processing Unit](https://drive.google.com/file/d/0Bx4hafXDDq2EMzRNcy1vSUxtcEk/view) | Google Cloud Platform Blog | Kexin Rong |
