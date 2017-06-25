@@ -46,3 +46,4 @@
 | 03/24/2017 | [Learning with Drift Detection](https://link.springer.com/chapter/10.1007/978-3-540-28645-5_29) | Brazilian Symposium on Artificial Intelligence 2004 | Jonathan |
 | 04/07/2017 | [Understanding deep learning requires rethinking generalization](https://arxiv.org/pdf/1611.03530.pdf) | arXiv 2016 | Sahaana |
 | 04/14/2017 | [In-Datacenter Performance Analysis of a Tensor Processing Unit](https://drive.google.com/file/d/0Bx4hafXDDq2EMzRNcy1vSUxtcEk/view) | Google Cloud Platform Blog | Kexin |
+| 04/28/2017 | [Roofline: An Insightful Visual Performance Model for Multicore Architectures](https://cs.stanford.edu/~matei/courses/2015/6.S897/readings/roofline.pdf) | CACM, April 2009 | Deepak |
