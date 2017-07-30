@@ -48,3 +48,5 @@
 | 04/14/2017 | [In-Datacenter Performance Analysis of a Tensor Processing Unit](https://drive.google.com/file/d/0Bx4hafXDDq2EMzRNcy1vSUxtcEk/view) | Google Cloud Platform Blog | Kexin |
 | 04/21/2017 | [Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images](https://arxiv.org/pdf/1412.1897.pdf) | CVPR 2015 | Daniel Kang |
 | 04/28/2017 | [Roofline: An Insightful Visual Performance Model for Multicore Architectures](https://cs.stanford.edu/~matei/courses/2015/6.S897/readings/roofline.pdf) | CACM, April 2009 | Deepak |
+| 07/25/2017 | [Enterprise Data Analysis and Visualization: An Interview Study](http://vis.stanford.edu/files/2012-EnterpriseAnalysisInterviews-VAST.pdf) | IEEE Visualization 2012 | Cody |
+| 07/25/2017 | [imMens: Real‐time Visual Querying of Big Data](https://idl.cs.washington.edu/files/2013-imMens-EuroVis.pdf) | EuroVis 2013 | Cody |
