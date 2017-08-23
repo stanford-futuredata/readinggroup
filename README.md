@@ -50,3 +50,4 @@
 | 04/28/2017 | [Roofline: An Insightful Visual Performance Model for Multicore Architectures](https://cs.stanford.edu/~matei/courses/2015/6.S897/readings/roofline.pdf) | CACM, April 2009 | Deepak |
 | 07/25/2017 | [Enterprise Data Analysis and Visualization: An Interview Study](http://vis.stanford.edu/files/2012-EnterpriseAnalysisInterviews-VAST.pdf) | IEEE Visualization 2012 | Cody |
 | 07/25/2017 | [imMens: Real‐time Visual Querying of Big Data](https://idl.cs.washington.edu/files/2013-imMens-EuroVis.pdf) | EuroVis 2013 | Cody |
+| 08/01/2017 | [Controlling False Discoveries During Interactive Data Exploration](http://dl.acm.org/citation.cfm?id=3064019) | SIGMOD 2017 | Kexin |
