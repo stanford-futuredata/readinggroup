@@ -48,6 +48,15 @@
 | 04/14/2017 | [In-Datacenter Performance Analysis of a Tensor Processing Unit](https://drive.google.com/file/d/0Bx4hafXDDq2EMzRNcy1vSUxtcEk/view) | Google Cloud Platform Blog | Kexin |
 | 04/21/2017 | [Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images](https://arxiv.org/pdf/1412.1897.pdf) | CVPR 2015 | Daniel Kang |
 | 04/28/2017 | [Roofline: An Insightful Visual Performance Model for Multicore Architectures](https://cs.stanford.edu/~matei/courses/2015/6.S897/readings/roofline.pdf) | CACM, April 2009 | Deepak |
+| 05/5/2017 | [A Control-Theoretic Approach for Dynamic Adaptive Video Streaming over HTTP](https://web.stanford.edu/class/cs244/papers/videostreaming-sigcomm2015.pdf) | SIGCOMM 2015 | Firas |
+| 05/12/2017 | [Adaptive Query Processing on RAW Data](http://www.vldb.org/pvldb/vol7/p1119-karpathiotakis.pdf) | VLDB 2014 | Edward |
+| 05/19/2017 | [Matching Networks for One-Shot Learning](https://arxiv.org/pdf/1606.04080.pdf) | NIPS 2016 | Amirata |
+| 05/26/2017 | [Adversarial Transformation Networks: Learning to Generate Adversarial Examples](https://arxiv.org/pdf/1703.09387) | arXiv 2017 | Florian |
+| 06/2/2017 | [SoK: Cryptographically Protected Database Search](https://www.ieee-security.org/TC/SP2017/papers/110.pdf) | Oakland S&P 2017 | Saba |
+| 06/9/2017 | [Real-Time Machine Learning: The Missing Pieces](https://arxiv.org/pdf/1703.03924.pdf) | HotOS 2017 | James |
+| 06/16/2017 | [Understanding and Optimizing Asynchronous Low-Precision Stochastic Gradient Descent](https://stanford.edu/~cdesa/papers/isca2017_buckwild.pdf) | ISCA 2017 | Shoumik |
+| 06/27/2017 | [The Mythos of Model Interpretability](https://arxiv.org/pdf/1606.03490) | WHI @ ICML 2016 | Kai Sheng |
+| 07/11/2017 | [Understanding Black-box Predictions via Influence Functions](https://arxiv.org/pdf/1703.04730.pdf) | ICML 2017 | Daniel Kang |
 | 07/19/2017 | [Interpretable Decision Sets: A Joint Framework for Description and Prediction](https://cs.stanford.edu/people/jure/pubs/interpretable-kdd16.pdf) | KDD 2016 | Sahaana |
 | 07/25/2017 | [Enterprise Data Analysis and Visualization: An Interview Study](http://vis.stanford.edu/files/2012-EnterpriseAnalysisInterviews-VAST.pdf) | IEEE Visualization 2012 | Cody |
 | 07/25/2017 | [imMens: Real‐time Visual Querying of Big Data](https://idl.cs.washington.edu/files/2013-imMens-EuroVis.pdf) | EuroVis 2013 | Cody |
