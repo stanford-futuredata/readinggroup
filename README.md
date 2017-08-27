@@ -61,3 +61,7 @@
 | 07/25/2017 | [Enterprise Data Analysis and Visualization: An Interview Study](http://vis.stanford.edu/files/2012-EnterpriseAnalysisInterviews-VAST.pdf) | IEEE Visualization 2012 | Cody |
 | 07/25/2017 | [imMens: Real‐time Visual Querying of Big Data](https://idl.cs.washington.edu/files/2013-imMens-EuroVis.pdf) | EuroVis 2013 | Cody |
 | 08/01/2017 | [Controlling False Discoveries During Interactive Data Exploration](http://dl.acm.org/citation.cfm?id=3064019) | SIGMOD 2017 | Kexin |
+| 08/08/2017 | [ActiveClean: Interactive Data Cleaning For Statistical Modeling](https://activeclean.github.io/files/activeclean-vldb16.pdf) | VLDB 2016 | Edward |
+| 08/15/2017 | [Explore-by-Example: An Automatic Query Steering Framework for Interactive Data Exploration](http://www.cs.brandeis.edu/~olga/publications/sigmod14-qsteering.pdf) | SIGMOD 2014 | Firas |
+| 08/22/2017 | [Arrakis: The Operating System is the Control Plane](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-peter_simon.pdf) | OSDI 2014 | Shoumik |
+| 08/29/2017 | [EC-Cache: Load Balanced, Low-Latency Cluster Caching with Online Erasure Coding](https://www.usenix.org/system/files/conference/osdi16/osdi16-rashmi.pdf) | OSDI 2016 | Pratiksha |
